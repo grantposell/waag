@@ -7,8 +7,6 @@ font-family: 'Damion', cursive; */
 body {
     font-family: 'Signika', sans-serif;
     font-weight: 300;
-    background-image: url("./../images/topography_neutral.svg");
-    background-size: 33%;
 }
 
 
@@ -36,11 +34,6 @@ body {
 
 #signin-form {
   margin-left:40px;
-}
-
-#navigation {
-    background-image: url("./../images/topography-01.svg"), linear-gradient(#fcb420, #fede55);
-    background-size: 100%;
 }
 
 
