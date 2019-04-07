@@ -1,4 +1,4 @@
-# Take A Hike
+#Take A Hike
 ###Team
 This is a 4 person project from the UT Houston Bootcamp. 
 Team: William Cotton, Allisa Robb, Andreina Keller and I
